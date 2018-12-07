@@ -1,4 +1,4 @@
-// simple-dice-game
+
 #include <iostream>
 #include <string>
 #include <iomanip>
